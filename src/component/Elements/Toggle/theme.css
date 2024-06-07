@@ -1,0 +1,15 @@
+:root {
+  --darkMode: #1e1e1e;
+  --lightMode: #ffffff;
+}
+#root {
+  margin: 0;
+  padding: 0;
+}
+.light{
+  background-color: #e9e9e9;
+}
+.dark {
+  background-color: #1e1e1e;
+  color: white;
+}
